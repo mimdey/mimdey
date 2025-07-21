@@ -45,7 +45,7 @@ Designed and built a fully coded birthday invitation website inspired by Y2K int
 ---
 
 ## 📫 Contact Me
-- 📧 Email: mimdey@example.com
+- 📧 Email: mimdey@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/mimdey](https://www.linkedin.com/in/mimdey)
 - 💻 GitHub: [github.com/mimdey](https://github.com/mimdey)
 
