@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mim Dey
 
-![Mim Dey](.jpg) 
+![Mim Dey]([.jpg](https://github.com/mimdey/mimdey/blob/main/FullSizeRender.jpeg)) 
 
 🎓 I'm a Computer Science student at The City College of New York and a proud **Break Through Tech Fellow**, exploring the intersection of machine learning, web development, and social impact.
 
