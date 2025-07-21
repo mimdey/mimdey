@@ -29,7 +29,7 @@ In addition to technical skills, I’ve strengthened my abilities in:
 
 ## 📌 Featured Projects
 
-### 🧠 `ml-foundations-predictive-models` *(Private Repo)*
+### 🧠 `Machine-Learning` *(Private Repo)*
 *Break Through Tech AI Program – ML Foundations Project*  
 Developed and evaluated supervised machine learning models using Python and scikit-learn. Focused on data cleaning, feature selection, classification, regression, and model performance metrics.  
 > **Note:** This repo is private due to course requirements. Access can be granted upon request.  
