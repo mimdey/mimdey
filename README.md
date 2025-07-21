@@ -37,7 +37,7 @@ Developed and evaluated supervised machine learning models using Python and scik
 
 ---
 
-### 🎉 `y2k-birthday-invite`
+### 🎉 `WEB101-Final-Project-`
 *Web 101 Project – CodePath*  
 Designed and built a fully coded birthday invitation website inspired by Y2K internet aesthetics. Features include an RSVP form, dark mode toggle, smooth animations, and a responsive design for mobile and desktop.  
 **Tech used:** HTML, CSS, JavaScript  
